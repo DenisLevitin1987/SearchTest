@@ -17,20 +17,14 @@ namespace Search
                 throw new Exception("filter is not simple, but trying to use as simple");
             }
 
-            var dict = DataStorage.GetDictionaryByFieldName(filter.FieldName);
-            var query = filter.Operator == Operator.None
-                    ? dict.Where(x => x.Equals(filter.Equals))
-                    : dict.Where(x => !x.Equals(filter.Equals));
-
-            return query.ToDictionary(x => x.Value.Id, x => x.Value);
+            return filter.Operator == Operator.None ? DataStorage.GetEquals(filter.Equals) : DataStorage.GetNotEquals(filter.Equals);
         }
 
         private IReadOnlyDictionary<int, Laptop> Search(IReadOnlyCollection<Laptop> laptops, Filter filter)
         {
             if (filter.IsSimple)
             {
-                var filterSimpledResult = FilterSimple(filter);
-                return laptops.Where(x => filterSimpledResult.ContainsKey(x.Id)).ToDictionary(x => x.Id, x => x);
+                return FilterSimple(filter);
             }
             else
             {

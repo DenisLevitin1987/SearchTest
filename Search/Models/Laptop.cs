@@ -15,33 +15,13 @@ namespace Search.Models
         public int Id { get; set; }
 
         /// <summary>
-        /// Производитель
+        /// Полная название
         /// </summary>
-        public string Producer { get; set; }
+        public string Name { get; set; }
 
         /// <summary>
-        /// Серия модели
+        /// Аттрибуты из названия
         /// </summary>
-        public string Serial { get; set; }
-
-        /// <summary>
-        /// Номер модели
-        /// </summary>
-        public string ModelNumber { get; set; }
-
-        /// <summary>
-        /// Цвет
-        /// </summary>
-        public string Color { get; set; }
-
-        /// <summary>
-        /// Код модели
-        /// </summary>
-        public string ModelCode { get; set; }
-
-        /// <summary>
-        /// Размер экрана
-        /// </summary>
-        public decimal ScreenSize { get; set; }
+        public string[] Attributes { get; set; }
     }
 }

@@ -8,8 +8,6 @@ namespace Search
 
         public string Equals { get; set; }
 
-        public string FieldName { get; set; }
-
         public Filter[] SubFilters { get; set; }
 
         public bool IsSimple

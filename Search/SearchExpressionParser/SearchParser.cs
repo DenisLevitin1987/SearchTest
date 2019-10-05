@@ -9,31 +9,20 @@ namespace Search.SearchExpressionParser
         {
             var result = new Filter();
 
-            var splited = query.Split("=", StringSplitOptions.RemoveEmptyEntries);
-            if (splited.Length == 0)
+            if (query.Split(" ", StringSplitOptions.RemoveEmptyEntries).Length > 2)
             {
-                splited = query.Split(new string[] {"not", "!"}, StringSplitOptions.RemoveEmptyEntries);
-                if (splited.Length == 0)
-                {
-                    return new ParseFilterResult(null, $"incorrect parsing of simple filter, term is = {query}");
-                }
-                else
-                {
-                    result.Operator = Operator.Not;
-                }
+                return new ParseFilterResult(null, $"incorrect filter parsing, query={query}");
+            }
+
+            if (query.IndexOf('!') > -1 || query.IndexOf("not") > -1)
+            {
+                result.Operator = Operator.Not;
+                result.Equals = query.Replace("!", "").Replace(" not ", " ");
             }
             else
             {
-                result.Operator = Operator.None;
+                result.Equals = query.Trim();
             }
-
-            if (splited.Length != 2)
-            {
-                return new ParseFilterResult(null, $"incorrect parsing of simple filter, term is {query}");
-            }
-
-            result.FieldName = splited[0].Trim();
-            result.Equals = splited[1].Trim();
 
             return new ParseFilterResult(result, null);
         }

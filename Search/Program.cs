@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.Design;
 using Search.Models;
 
 namespace Search
@@ -11,15 +10,13 @@ namespace Search
         {
             foreach (var laptop in laptops)
             {
-                Console.WriteLine($"{laptop.Id} {laptop.Producer} {laptop.Serial} {laptop.ModelCode} {laptop.ModelNumber} {laptop.Color}");
+                Console.WriteLine($"{laptop.Id} {laptop.Name}");
             }
         }
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
-            var laptops = DataParser.ParseLaptopJson("goods_data.json");
+            var laptops = DataParser.ParseLaptopJson("../../../goods_data.json");
             DataStorage.SetLaptops(laptops);
 
             var searcher = new Searcher();
@@ -33,9 +30,16 @@ namespace Search
                 else
                 {
                     var result = searcher.Search(entered);
-                    if (!string.IsNullOrWhiteSpace(result.Error))
+                    if (string.IsNullOrWhiteSpace(result.Error))
                     {
-                        PrintResult(result.Laptops);
+                        if (result.Laptops.Count > 0)
+                        {
+                            PrintResult(result.Laptops);
+                        }
+                        else
+                        {
+                            Console.WriteLine("nothing found");
+                        }
                     }
                     else
                     {
