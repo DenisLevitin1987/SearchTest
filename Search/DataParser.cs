@@ -16,7 +16,7 @@ namespace Search
             var laptops = JsonConvert.DeserializeObject<Laptop[]>(text);
             foreach (var laptop in laptops)
             {
-                laptop.Name = laptop.Name.Replace(",", "");
+                laptop.Name = laptop.Name.Replace(",", "").Replace(@"\","").Replace( "\"","");
                 var descriptioArray = laptop.Name?.Split(new string[] {" ", ", ", ",", "\"," }, StringSplitOptions.RemoveEmptyEntries);
                 if (descriptioArray?.Length > 0)
                 {
