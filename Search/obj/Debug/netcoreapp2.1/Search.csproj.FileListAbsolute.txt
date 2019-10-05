@@ -1,0 +1,11 @@
+C:\Users\Ника\source\repos\Search\Search\bin\Debug\netcoreapp2.1\Search.deps.json
+C:\Users\Ника\source\repos\Search\Search\bin\Debug\netcoreapp2.1\Search.runtimeconfig.json
+C:\Users\Ника\source\repos\Search\Search\bin\Debug\netcoreapp2.1\Search.runtimeconfig.dev.json
+C:\Users\Ника\source\repos\Search\Search\bin\Debug\netcoreapp2.1\Search.dll
+C:\Users\Ника\source\repos\Search\Search\obj\Debug\netcoreapp2.1\Search.csprojAssemblyReference.cache
+C:\Users\Ника\source\repos\Search\Search\obj\Debug\netcoreapp2.1\Search.csproj.CoreCompileInputs.cache
+C:\Users\Ника\source\repos\Search\Search\obj\Debug\netcoreapp2.1\Search.AssemblyInfoInputs.cache
+C:\Users\Ника\source\repos\Search\Search\obj\Debug\netcoreapp2.1\Search.AssemblyInfo.cs
+C:\Users\Ника\source\repos\Search\Search\bin\Debug\netcoreapp2.1\Search.pdb
+C:\Users\Ника\source\repos\Search\Search\obj\Debug\netcoreapp2.1\Search.dll
+C:\Users\Ника\source\repos\Search\Search\obj\Debug\netcoreapp2.1\Search.pdb
