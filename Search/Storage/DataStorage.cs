@@ -54,46 +54,9 @@ namespace Search
             return Laptops;
         }
 
-        public static IReadOnlyDictionary<int, Laptop> GetEquals(IReadOnlyDictionary<int, Laptop> laptops, string equal)
+        public static Dictionary<string, HashSet<int>> GetCache()
         {
-            if (Cache.TryGetValue(equal, out var ids))
-            {
-                var res = new Dictionary<int, Laptop>();
-                foreach (var id in ids)
-                {
-                    if (laptops.TryGetValue(id, out var laptop))
-                    {
-                        res.Add(id, laptop);
-                    }
-                }
-
-                return res;
-            }
-            else
-            {
-                return new Dictionary<int, Laptop>();
-            }
-        }
-
-        public static IReadOnlyDictionary<int, Laptop> GetNotEquals(IReadOnlyDictionary<int, Laptop> laptops, string equal)
-        {
-            var res = new Dictionary<int, Laptop>();
-            if (Cache.TryGetValue(equal, out var ids))
-            {
-                foreach (var laptop in laptops)
-                {
-                    if (!ids.Contains(laptop.Key))
-                    {
-                        res.Add(laptop.Key, laptop.Value);
-                    }
-                }
-
-                return res;
-            }
-            else
-            {
-                return laptops;
-            }
+            return Cache;
         }
     }
 }

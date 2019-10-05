@@ -8,7 +8,49 @@ namespace Search
 {
     public class Searcher
     {
-        private readonly SearchParser _searchParser = new SearchParser();
+        private readonly SearchQueryParser _searchParser = new SearchQueryParser();
+
+        public IReadOnlyDictionary<int, Laptop> GetEquals(IReadOnlyDictionary<int, Laptop> laptops, string equal)
+        {
+            if (DataStorage.GetCache().TryGetValue(equal, out var ids))
+            {
+                var res = new Dictionary<int, Laptop>();
+                foreach (var id in ids)
+                {
+                    if (laptops.TryGetValue(id, out var laptop))
+                    {
+                        res.Add(id, laptop);
+                    }
+                }
+
+                return res;
+            }
+            else
+            {
+                return new Dictionary<int, Laptop>();
+            }
+        }
+
+        public IReadOnlyDictionary<int, Laptop> GetNotEquals(IReadOnlyDictionary<int, Laptop> laptops, string equal)
+        {
+            var res = new Dictionary<int, Laptop>();
+            if (DataStorage.GetCache().TryGetValue(equal, out var ids))
+            {
+                foreach (var laptop in laptops)
+                {
+                    if (!ids.Contains(laptop.Key))
+                    {
+                        res.Add(laptop.Key, laptop.Value);
+                    }
+                }
+
+                return res;
+            }
+            else
+            {
+                return laptops;
+            }
+        }
 
         private IReadOnlyDictionary<int, Laptop> FilterSimple(IReadOnlyDictionary<int, Laptop> laptops, Filter filter)
         {
@@ -17,7 +59,7 @@ namespace Search
                 throw new Exception("filter is not simple, but trying to use as simple");
             }
 
-            return filter.Operator == Operator.None ? DataStorage.GetEquals(laptops, filter.Equals) : DataStorage.GetNotEquals(laptops, filter.Equals);
+            return filter.Operator == Operator.None ? GetEquals(laptops, filter.Equals) : GetNotEquals(laptops, filter.Equals);
         }
 
         private IReadOnlyDictionary<int, Laptop> Search(IReadOnlyDictionary<int, Laptop> laptops, Filter filter)

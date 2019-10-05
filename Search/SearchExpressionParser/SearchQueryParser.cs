@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace Search.SearchExpressionParser
 {
-    public class SearchParser
+    public class SearchQueryParser
     {
         private ParseFilterResult ParseSimpleFilter(string query)
         {
