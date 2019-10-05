@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using Search.Models;
 
@@ -6,9 +7,7 @@ namespace Search
 {
     public static class DataStorage
     {
-        private static object obj = new object(); 
-
-        private static object objCacheLock = new object();
+        private static object obj = new object();
 
         private static IReadOnlyDictionary<int, Laptop> Laptops;
 
@@ -50,19 +49,19 @@ namespace Search
             }
         }
 
-        public static IReadOnlyCollection<Laptop> GetLaptops()
+        public static IReadOnlyDictionary<int, Laptop> GetLaptops()
         {
-            return Laptops.Values.ToList();
+            return Laptops;
         }
 
-        public static IReadOnlyDictionary<int, Laptop> GetEquals(string equal)
+        public static IReadOnlyDictionary<int, Laptop> GetEquals(IReadOnlyDictionary<int, Laptop> laptops, string equal)
         {
             if (Cache.TryGetValue(equal, out var ids))
             {
                 var res = new Dictionary<int, Laptop>();
                 foreach (var id in ids)
                 {
-                    if (Laptops.TryGetValue(id, out var laptop))
+                    if (laptops.TryGetValue(id, out var laptop))
                     {
                         res.Add(id, laptop);
                     }
@@ -76,16 +75,16 @@ namespace Search
             }
         }
 
-        public static IReadOnlyDictionary<int, Laptop> GetNotEquals(string equal)
+        public static IReadOnlyDictionary<int, Laptop> GetNotEquals(IReadOnlyDictionary<int, Laptop> laptops, string equal)
         {
+            var res = new Dictionary<int, Laptop>();
             if (Cache.TryGetValue(equal, out var ids))
             {
-                var res = new Dictionary<int, Laptop>();
-                foreach (var id in ids)
+                foreach (var laptop in laptops)
                 {
-                    if (!Laptops.TryGetValue(id, out var laptop))
+                    if (!ids.Contains(laptop.Key))
                     {
-                        res.Add(id, laptop);
+                        res.Add(laptop.Key, laptop.Value);
                     }
                 }
 
@@ -93,7 +92,7 @@ namespace Search
             }
             else
             {
-                return new Dictionary<int, Laptop>();
+                return laptops;
             }
         }
     }

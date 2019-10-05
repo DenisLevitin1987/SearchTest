@@ -10,21 +10,21 @@ namespace Search
     {
         private readonly SearchParser _searchParser = new SearchParser();
 
-        private IReadOnlyDictionary<int, Laptop> FilterSimple(Filter filter)
+        private IReadOnlyDictionary<int, Laptop> FilterSimple(IReadOnlyDictionary<int, Laptop> laptops, Filter filter)
         {
             if (!filter.IsSimple)
             {
                 throw new Exception("filter is not simple, but trying to use as simple");
             }
 
-            return filter.Operator == Operator.None ? DataStorage.GetEquals(filter.Equals) : DataStorage.GetNotEquals(filter.Equals);
+            return filter.Operator == Operator.None ? DataStorage.GetEquals(laptops, filter.Equals) : DataStorage.GetNotEquals(laptops, filter.Equals);
         }
 
-        private IReadOnlyDictionary<int, Laptop> Search(IReadOnlyCollection<Laptop> laptops, Filter filter)
+        private IReadOnlyDictionary<int, Laptop> Search(IReadOnlyDictionary<int, Laptop> laptops, Filter filter)
         {
             if (filter.IsSimple)
             {
-                return FilterSimple(filter);
+                return FilterSimple(laptops, filter);
             }
             else
             {
@@ -39,10 +39,10 @@ namespace Search
 
                         foreach (var subFilter in filter.SubFilters)
                         {
-                            laptops = Search(laptops, subFilter).Values.ToList();
+                            laptops = Search(laptops, subFilter);
                         }
 
-                        return laptops.ToDictionary(x => x.Id, x=>x);
+                        return laptops;
                     case Operator.Or:
                         var filteredSets = filter.SubFilters.Select(x => Search(laptops, x)).ToList();
                         return ProcessOrOperator(filteredSets);

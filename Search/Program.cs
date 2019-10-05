@@ -22,6 +22,7 @@ namespace Search
             var searcher = new Searcher();
             while (true)
             {
+                Console.WriteLine("type your query");
                 var entered = Console.ReadLine();
                 if (entered == "exit")
                 {
@@ -34,6 +35,7 @@ namespace Search
                     {
                         if (result.Laptops.Count > 0)
                         {
+                            Console.WriteLine("your result: ");
                             PrintResult(result.Laptops);
                         }
                         else
