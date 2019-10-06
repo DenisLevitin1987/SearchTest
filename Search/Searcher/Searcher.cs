@@ -8,11 +8,18 @@ namespace Search
 {
     public class Searcher
     {
-        private readonly SearchQueryParser _searchParser = new SearchQueryParser();
+        private readonly SearchQueryParser _searchParser;
+        private readonly DataStorage _dataStorage;
+
+        public Searcher(SearchQueryParser searchParser, DataStorage dataStorage)
+        {
+            _searchParser = searchParser;
+            _dataStorage = dataStorage;
+        }
 
         public IReadOnlyDictionary<int, Laptop> GetEquals(IReadOnlyDictionary<int, Laptop> laptops, string equal)
         {
-            if (DataStorage.GetCache().TryGetValue(equal, out var ids))
+            if (_dataStorage.GetCache().TryGetValue(equal, out var ids))
             {
                 var res = new Dictionary<int, Laptop>();
                 foreach (var id in ids)
@@ -34,7 +41,7 @@ namespace Search
         public IReadOnlyDictionary<int, Laptop> GetNotEquals(IReadOnlyDictionary<int, Laptop> laptops, string equal)
         {
             var res = new Dictionary<int, Laptop>();
-            if (DataStorage.GetCache().TryGetValue(equal, out var ids))
+            if (_dataStorage.GetCache().TryGetValue(equal, out var ids))
             {
                 foreach (var laptop in laptops)
                 {
@@ -119,7 +126,7 @@ namespace Search
                 };
             }
 
-            var laptops = DataStorage.GetLaptops();
+            var laptops = _dataStorage.GetLaptops();
 
             return new SearcherResult
             {

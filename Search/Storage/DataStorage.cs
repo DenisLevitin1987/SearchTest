@@ -5,7 +5,7 @@ using Search.Models;
 
 namespace Search
 {
-    public static class DataStorage
+    public class DataStorage
     {
         private static object obj = new object();
 
@@ -13,7 +13,7 @@ namespace Search
 
         private static Dictionary<string, HashSet<int>> Cache = new Dictionary<string, HashSet<int>>();
 
-        private static void SetCache(IReadOnlyCollection<Laptop> laptops)
+        private void SetCache(IReadOnlyCollection<Laptop> laptops)
         {
             foreach (var laptop in laptops)
             {
@@ -34,7 +34,7 @@ namespace Search
             }
         }
 
-        public static void SetLaptops(IReadOnlyCollection<Laptop> laptops)
+        public void SetLaptops(IReadOnlyCollection<Laptop> laptops)
         {
             if (Laptops == null)
             {
@@ -49,12 +49,12 @@ namespace Search
             }
         }
 
-        public static IReadOnlyDictionary<int, Laptop> GetLaptops()
+        public IReadOnlyDictionary<int, Laptop> GetLaptops()
         {
             return Laptops;
         }
 
-        public static Dictionary<string, HashSet<int>> GetCache()
+        public Dictionary<string, HashSet<int>> GetCache()
         {
             return Cache;
         }

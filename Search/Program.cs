@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Search.Models;
+using Search.SearchExpressionParser;
 
 namespace Search
 {
@@ -17,9 +18,12 @@ namespace Search
         static void Main(string[] args)
         {
             var laptops = DataParser.ParseLaptopJson("../../../goods_data.json");
-            DataStorage.SetLaptops(laptops);
+            var dataStorage = new DataStorage();
 
-            var searcher = new Searcher();
+            dataStorage.SetLaptops(laptops);
+            var searchParser = new SearchQueryParser();
+
+            var searcher = new Searcher(searchParser, dataStorage);
             while (true)
             {
                 Console.WriteLine("type your query");
