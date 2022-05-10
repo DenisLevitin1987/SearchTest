@@ -1,0 +1,13 @@
+E:\Projects\Search\SearchEngine\bin\Debug\netcoreapp2.1\SearchEngine.deps.json
+E:\Projects\Search\SearchEngine\bin\Debug\netcoreapp2.1\SearchEngine.dll
+E:\Projects\Search\SearchEngine\bin\Debug\netcoreapp2.1\SearchEngine.pdb
+E:\Projects\Search\SearchEngine\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+E:\Projects\Search\SearchEngine\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+E:\Projects\Search\SearchEngine\obj\Debug\netcoreapp2.1\SearchEngine.csproj.AssemblyReference.cache
+E:\Projects\Search\SearchEngine\obj\Debug\netcoreapp2.1\SearchEngine.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Search\SearchEngine\obj\Debug\netcoreapp2.1\SearchEngine.AssemblyInfoInputs.cache
+E:\Projects\Search\SearchEngine\obj\Debug\netcoreapp2.1\SearchEngine.AssemblyInfo.cs
+E:\Projects\Search\SearchEngine\obj\Debug\netcoreapp2.1\SearchEngine.csproj.CoreCompileInputs.cache
+E:\Projects\Search\SearchEngine\obj\Debug\netcoreapp2.1\SearchEngine.csproj.CopyComplete
+E:\Projects\Search\SearchEngine\obj\Debug\netcoreapp2.1\SearchEngine.dll
+E:\Projects\Search\SearchEngine\obj\Debug\netcoreapp2.1\SearchEngine.pdb

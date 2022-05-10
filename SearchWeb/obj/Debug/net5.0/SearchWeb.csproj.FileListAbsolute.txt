@@ -1,0 +1,7 @@
+E:\Projects\Search\SearchWeb\obj\Debug\net5.0\SearchWeb.csproj.AssemblyReference.cache
+E:\Projects\Search\SearchWeb\obj\Debug\net5.0\SearchWeb.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Search\SearchWeb\obj\Debug\net5.0\SearchWeb.AssemblyInfoInputs.cache
+E:\Projects\Search\SearchWeb\obj\Debug\net5.0\SearchWeb.AssemblyInfo.cs
+E:\Projects\Search\SearchWeb\obj\Debug\net5.0\SearchWeb.csproj.CoreCompileInputs.cache
+E:\Projects\Search\SearchWeb\obj\Debug\net5.0\SearchWeb.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\Search\SearchWeb\obj\Debug\net5.0\SearchWeb.MvcApplicationPartsAssemblyInfo.cache

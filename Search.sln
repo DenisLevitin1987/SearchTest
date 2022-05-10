@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.852
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "Search\Search.csproj", "{E0C132A1-5FC8-446A-86F5-FE4E38B254AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchEngine", "SearchEngine\SearchEngine.csproj", "{7F287AD5-8737-42DF-ABD3-0CBE9AFA2D37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchWeb", "SearchWeb\SearchWeb.csproj", "{C6E270C5-9AFA-4100-99C9-BED888308384}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E0C132A1-5FC8-446A-86F5-FE4E38B254AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E0C132A1-5FC8-446A-86F5-FE4E38B254AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E0C132A1-5FC8-446A-86F5-FE4E38B254AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E0C132A1-5FC8-446A-86F5-FE4E38B254AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F287AD5-8737-42DF-ABD3-0CBE9AFA2D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F287AD5-8737-42DF-ABD3-0CBE9AFA2D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F287AD5-8737-42DF-ABD3-0CBE9AFA2D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F287AD5-8737-42DF-ABD3-0CBE9AFA2D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E270C5-9AFA-4100-99C9-BED888308384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E270C5-9AFA-4100-99C9-BED888308384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E270C5-9AFA-4100-99C9-BED888308384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E270C5-9AFA-4100-99C9-BED888308384}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

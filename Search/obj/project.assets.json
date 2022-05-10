@@ -216,6 +216,16 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
+      },
+      "SearchEngine/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/SearchEngine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SearchEngine.dll": {}
+        }
       }
     }
   },
@@ -719,32 +729,34 @@
         "newtonsoft.json.12.0.2.nupkg.sha512",
         "newtonsoft.json.nuspec"
       ]
+    },
+    "SearchEngine/1.0.0": {
+      "type": "project",
+      "path": "../SearchEngine/SearchEngine.csproj",
+      "msbuildProject": "../SearchEngine/SearchEngine.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.NETCore.App >= 2.1.0",
-      "Newtonsoft.Json >= 12.0.2"
+      "Newtonsoft.Json >= 12.0.2",
+      "SearchEngine >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ника\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\DENIS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ника\\source\\repos\\Search\\Search\\Search.csproj",
+      "projectUniqueName": "E:\\Projects\\Search\\Search\\Search.csproj",
       "projectName": "Search",
-      "projectPath": "C:\\Users\\Ника\\source\\repos\\Search\\Search\\Search.csproj",
-      "packagesPath": "C:\\Users\\Ника\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ника\\source\\repos\\Search\\Search\\obj\\",
+      "projectPath": "E:\\Projects\\Search\\Search\\Search.csproj",
+      "packagesPath": "C:\\Users\\DENIS\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\Search\\Search\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Ника\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DENIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -756,7 +768,12 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "targetAlias": "netcoreapp2.1",
+          "projectReferences": {
+            "E:\\Projects\\Search\\SearchEngine\\SearchEngine.csproj": {
+              "projectPath": "E:\\Projects\\Search\\SearchEngine\\SearchEngine.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -767,8 +784,10 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
@@ -779,10 +798,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

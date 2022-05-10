@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0vTYU1GepmhAyrZNUGnTbZH0g13n/OXPzmmRTFFOEylEZEvKHHjM+xeCymUce1ubgSsy+Bp4OY/T/ef4DDuUKg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Search\\SearchEngine\\SearchEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DENIS\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\DENIS\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\DENIS\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\DENIS\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\DENIS\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\DENIS\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\DENIS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

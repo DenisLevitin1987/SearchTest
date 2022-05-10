@@ -1,7 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using Search.Models;
-using Search.SearchExpressionParser;
+using System.Diagnostics;
+using SearchEngine;
+using SearchEngine.Models;
+using SearchEngine.Searcher;
+using SearchEngine.SearchExpressionParser;
+using SearchEngine.Storage;
 
 namespace Search
 {
@@ -17,13 +21,10 @@ namespace Search
 
         static void Main(string[] args)
         {
-            var laptops = DataParser.ParseLaptopJson("../../../goods_data.json");
-            var dataStorage = new DataStorage();
-
-            dataStorage.SetLaptops(laptops);
+            var dataStorage = new LaptopDataProvider();
             var searchParser = new SearchQueryParser();
-
             var searcher = new Searcher(searchParser, dataStorage);
+            
             while (true)
             {
                 Console.WriteLine("type your query");
@@ -34,13 +35,17 @@ namespace Search
                 }
                 else
                 {
+                    var sw = new Stopwatch();
+                    sw.Start();
                     var result = searcher.Search(entered);
+                    sw.Stop();
                     if (string.IsNullOrWhiteSpace(result.Error))
                     {
                         if (result.Laptops.Count > 0)
                         {
                             Console.WriteLine("your result: ");
                             PrintResult(result.Laptops);
+                            Console.WriteLine($"search took {sw.ElapsedMilliseconds} ms");
                         }
                         else
                         {

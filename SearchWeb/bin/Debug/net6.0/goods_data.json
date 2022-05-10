@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Lenovo IdeaPad G5030, Black (80G0016CRK)",
+    "id": 32481344
+  },
+  {
+    "name": "Apple MacBook Air 11.6 (MJVP2RU/A)",
+    "id": 31599970
+  },
+  {
+    "name": "Apple MacBook 12\", Gold (MK4M2RU/A)",
+    "id": 31599981
+  },
+  {
+    "name": "Apple MacBook Pro 13.3 (MF840RU/A)",
+    "id": 31599975
+  },
+  {
+    "name": "Apple MacBook Pro 13.3 (MF841RU/A)",
+    "id": 31599976
+  },
+  {
+    "name": "Apple MacBook 12\", Gold (MK4N2RU/A)",
+    "id": 31599982
+  },
+  {
+    "name": "Apple MacBook Pro 13\" (MD101RS/A)",
+    "id": 17976283
+  },
+  {
+    "name": "ASUS X751LAV (90NB04P1-M02760)",
+    "id": 32253072
+  },
+  {
+    "name": "ASUS X751LAV (90NB04P1-M02770)",
+    "id": 32253073
+  },
+  {
+    "name": "Dell Latitude 3450, Black (3450-8550)",
+    "id": 34087417
+  },
+  {
+    "name": "Dell Latitude E7450, Black (7450-8303)",
+    "id": 34087411
+  },
+  {
+    "name": "Apple MacBook Pro 15.4\" Retina (MJLT2RU/A)",
+    "id": 33977693
+  },
+  {
+    "name": "Acer Aspire E5-573G-325U, Grey (NX.MVRER.002)",
+    "id": 34549398
+  },
+  {
+    "name": "MSI GE62 6QF-008RU Apache Pro, Black",
+    "id": 34767523
+  },
+  {
+    "name": "Lenovo IdeaPad G5080, Black (80L000BNRK)",
+    "id": 34295639
+  },
+  {
+    "name": "Lenovo IdeaPad G5030, Black (80G000XVRK)",
+    "id": 34295637
+  },
+  {
+    "name": "Apple MacBook Pro 15.4\" Retina (MJLQ2RU/A)",
+    "id": 33632940
+  },
+  {
+    "name": "Lenovo IdeaPad 100-15IBD, Black (80QQ003QRK)",
+    "id": 135447914
+  },
+  {
+    "name": "HP ProBook 640 G2, Silver Black (T9X05EA)",
+    "id": 136969563
+  },
+  {
+    "name": "HP ProBook 655 G2, Silver Black Metal (T9X65EA)",
+    "id": 136969576
+  },
+  {
+    "name": "HP EliteBook 725 G3, Silver Black Metal (V1A60EA)",
+    "id": 136969579
+  },
+  {
+    "name": "HP EliteBook 725 G3, Silver Black Metal (P4T47EA)",
+    "id": 136969580
+  },
+  {
+    "name": "HP EliteBook 725 G3, Silver Black Metal (T4H20EA)",
+    "id": 136969582
+  },
+  {
+    "name": "HP EliteBook 745 G3, Silver Black Metal (T4H58EA)",
+    "id": 136969585
+  },
+  {
+    "name": "HP EliteBook 820 G3, Silver Black (T9X42EA)",
+    "id": 136969598
+  },
+  {
+    "name": "HP EliteBook 840 G3, Silver Black Metal (T9X27EA)",
+    "id": 136969605
+  },
+  {
+    "name": "HP EliteBook 850 G3, Silver Black Metal (T9X18EA)",
+    "id": 136969609
+  },
+  {
+    "name": "HP ProBook 640 G2, Silver Black (T9X04EA)",
+    "id": 136969562
+  },
+  {
+    "name": "HP ProBook 640 G2, Silver Black (T9X08EA)",
+    "id": 136969565
+  },
+  {
+    "name": "HP EliteBook 745 G3, Silver Black Metal (V1A64EA)",
+    "id": 136969583
+  },
+  {
+    "name": "HP EliteBook 745 G3, Silver Black Metal (P4T38EA)",
+    "id": 136969587
+  },
+  {
+    "name": "HP EliteBook 755 G3, Silver Black Metal (P4T45EA)",
+    "id": 136969590
+  },
+  {
+    "name": "HP EliteBook 755 G3, Silver Black Metal (T4H59EA)",
+    "id": 136969591
+  },
+  {
+    "name": "HP EliteBook 755 G3, Silver Black Metal (T4H98EA)",
+    "id": 136969595
+  },
+  {
+    "name": "HP EliteBook 840 G3, Silver Black Metal (V1B16EA)",
+    "id": 136969608
+  },
+  {
+    "name": "Acer Extensa EX2519-C7SN, Black (NX.EFAER.013)",
+    "id": 136291217
+  },
+  {
+    "name": "Acer Extensa EX2511G-C51A, Black (NX.EF9ER.009)",
+    "id": 136291219
+  },
+  {
+    "name": "Acer Extensa EX2511G-P5F1, Black (NX.EF9ER.010)",
+    "id": 136291222
+  },
+  {
+    "name": "Acer Extensa EX2511G-390S, Black (NX.EF9ER.012)",
+    "id": 136291225
+  },
+  {
+    "name": "Acer Aspire E5-532-C5SZ, Grey (NX.MYVER.016)",
+    "id": 136291239
+  },
+  {
+    "name": "Acer Aspire E5-532-C5AA, White (NX.MYWER.013)",
+    "id": 136291240
+  },
+  {
+    "name": "Acer Aspire E5-532-P928, Grey (NX.MYVER.011)",
+    "id": 136291242
+  },
+  {
+    "name": "Acer Aspire E5-532-P6LJ, White (NX.MYWER.009)",
+    "id": 136291243
+  },
+  {
+    "name": "MSI GE72 6QE-269RU Apache Pro, Black",
+    "id": 135763823
+  },
+  {
+    "name": "ASUS VivoBook Pro N752VX BTS Edition (N752VX-GC218T)",
+    "id": 137669262
+  },
+  {
+    "name": "ASUS ZenBook UX303UA, Smoky Brown (UX303UA-R4364T)",
+    "id": 137669264
+  },
+  {
+    "name": "Acer Aspire E5-772G-38UY, Black White (NX.MVCER.005)",
+    "id": 138108765
+  },
+  {
+    "name": "Acer Aspire E5-772G-59SX, Black Grey (NX.MV8ER.007)",
+    "id": 138108766
+  },
+  {
+    "name": "Acer Aspire F5-573G-538V, Black (NX.GD6ER.005)",
+    "id": 138108768
+  },
+  {
+    "name": "Acer Extensa EX2511G-P58P, Black (NX.EF9ER.022)",
+    "id": 138108769
+  },
+  {
+    "name": "Dell XPS 15, Silver Black (9550-7920)",
+    "id": 138108772
+  },
+  {
+    "name": "Acer Aspire S5-371-59PM, Black",
+    "id": 138403585
+  },
+  {
+    "name": "Acer Aspire S5-371-7270, Black",
+    "id": 138403586
+  },
+  {
+    "name": "Acer Aspire V3-372, Black (V3-372-76HX)",
+    "id": 138207624
+  },
+  {
+    "name": "Dell Inspiron 5758, Silver (9006)",
+    "id": 138207630
+  },
+  {
+    "name": "ASUS ZenBook Flip UX360CA (UX360CA-C4112TS)",
+    "id": 138207638
+  },
+  {
+    "name": "ASUS VivoBook X540LJ, Chocolate Black (X540LJ-XX569T)",
+    "id": 138207644
+  },
+  {
+    "name": "Acer Aspire V3-372, Black (V3-372-590J)",
+    "id": 138207625
+  },
+  {
+    "name": "Acer Extensa EX2511G-35D4, Black (NX.EF9ER.007)",
+    "id": 138207626
+  },
+  {
+    "name": "ASUS VivoBook Pro N752VX (N752VX-GC278T)",
+    "id": 138207639
+  },
+  {
+    "name": "ASUS VivoBook Pro N752VX (N752VX-GC276T)",
+    "id": 138207636
+  },
+  {
+    "name": "ASUS VivoBook Flip TP201SA (TP201SA-FV0009T)",
+    "id": 138207643
+  },
+  {
+    "name": "ASUS VivoBook X556UQ, Brown (X556UQ-XO256T)",
+    "id": 138549509
+  },
+  {
+    "name": "Dell Inspiron 3552 (0507), Black",
+    "id": 138549526
+  },
+  {
+    "name": "Dell Inspiron 3552 (0569), Black",
+    "id": 138549528
+  },
+  {
+    "name": "Dell Inspiron 5767 (2723), Black",
+    "id": 138549532
+  },
+  {
+    "name": "Dell XPS 13 (9360-3607), Silver",
+    "id": 138549535
+  },
+  {
+    "name": "Dell XPS 13 (9360-3614), Silver",
+    "id": 138549536
+  },
+  {
+    "name": "ASUS VivoBook X540YA (X540YA-XO047T)",
+    "id": 138549508
+  },
+  {
+    "name": "ASUS VivoBook Pro N552VW (N552VW-FY250T)",
+    "id": 138549512
+  },
+  {
+    "name": "ASUS VivoBook Pro N552VW (N552VW-FY252T)",
+    "id": 138549513
+  },
+  {
+    "name": "Dell Inspiron 5767 (2693), Black",
+    "id": 138549530
+  },
+  {
+    "name": "ASUS VivoBook X540SA (X540SA-XX032T)",
+    "id": 138549507
+  },
+  {
+    "name": "ASUS X756UV (X756UV-TY042T)",
+    "id": 138549510
+  },
+  {
+    "name": "ASUS X756UV (X756UV-TY043T)",
+    "id": 138549511
+  },
+  {
+    "name": "Acer Extensa EX2519-C8H5, Black",
+    "id": 138549525
+  },
+  {
+    "name": "Dell Inspiron 3552 (0514), Black",
+    "id": 138549527
+  },
+  {
+    "name": "Dell Inspiron 7779-3294, Silver",
+    "id": 138549534
+  },
+  {
+    "name": "Dell XPS 13 (9350-1288), Silver",
+    "id": 135366748
+  },
+  {
+    "name": "Lenovo IdeaPad B70-80, Black Grey (80MR02NMRK)",
+    "id": 135709175
+  },
+  {
+    "name": "Lenovo IdeaPad B71-80, Black Grey (80RJ00F2RK)",
+    "id": 135709180
+  },
+  {
+    "name": "Apple MacBook 12\", Silver (MLHA2RU/A) Уцененный товар (№1)",
+    "id": 140101072
+  },
+  {
+    "name": "Prestigio SmartBook 116A, Space Gray",
+    "id": 139716915
+  },
+  {
+    "name": "Prestigio Visconte Ecliptica, Dark Blue",
+    "id": 139716906
+  },
+  {
+    "name": "Prestigio Visconte Ecliptica, Dark Gray",
+    "id": 139716907
+  },
+  {
+    "name": "Lenovo V110, Black (80TG00GARK)",
+    "id": 140113568
+  },
+  {
+    "name": "Lenovo V110, Black (80TL00ANRK)",
+    "id": 140113571
+  },
+  {
+    "name": "Lenovo IdeaPad B71-80, Black Grey (80RJ00EXRK)",
+    "id": 140113567
+  },
+  {
+    "name": "Lenovo V110, Black (80TG00Y5RK)",
+    "id": 140113569
+  },
+  {
+    "name": "Lenovo V110, Black (80TL00SKRK)",
+    "id": 140113570
+  },
+  {
+    "name": "Lenovo V310, Black (80SY02S6RK)",
+    "id": 140113573
+  },
+  {
+    "name": "Acer Extensa EX2519-P0BT, Black",
+    "id": 135672510
+  },
+  {
+    "name": "Dell XPS 15 9550-1370, Silver",
+    "id": 135672521
+  },
+  {
+    "name": "ASUS ROG G752VT (G752VT-GC077T)",
+    "id": 136089401
+  },
+  {
+    "name": "MSI GE62 6QD-244RU Apache Pro Heroes of The Storm, Black",
+    "id": 136227428
+  },
+  {
+    "name": "Dell Vostro 5468-2853, Grey",
+    "id": 138897029
+  },
+  {
+    "name": "ASUS Transformer Book Flip TP300LA (TP300LA-DW049H)",
+    "id": 136574170
+  },
+  {
+    "name": "ASUS VivoBook X540SA, Chocolate Black (90NB0B31-M00730)",
+    "id": 137322808
+  },
+  {
+    "name": "ASUS X553SA, Black (90NB0AC1-M05960)",
+    "id": 137322809
+  },
+  {
+    "name": "ASUS ROG G752VT (G752VT-GC124T) Уцененный товар (№1)",
+    "id": 137368013
+  },
+  {
+    "name": "HP ProBook 640 G2, Silver Black (T9X07EA)",
+    "id": 136969564
+  },
+  {
+    "name": "HP ProBook 650 G2, Silver Black Metal (V1C19EA)",
+    "id": 136969570
+  },
+  {
+    "name": "HP ProBook 650 G2, Silver Black Metal (T9X64EA)",
+    "id": 136969572
+  },
+  {
+    "name": "HP ProBook 650 G2, Silver Black Metal (V1C17EA)",
+    "id": 136969573
+  },
+  {
+    "name": "HP EliteBook 725 G3, Silver Black Metal (P4T48EA)",
+    "id": 136969581
+  },
+  {
+    "name": "HP EliteBook 755 G3, Silver Black Metal (P4T44EA)",
+    "id": 136969592
+  },
+  {
+    "name": "HP EliteBook 820 G3, Silver Black (T9X40EA)",
+    "id": 136969596
+  },
+  {
+    "name": "HP EliteBook 840 G3, Silver Black Metal (T9X31EA)",
+    "id": 136969603
+  },
+  {
+    "name": "HP EliteBook 840 G3, Silver Black Metal (T9X23EA)",
+    "id": 136969607
+  },
+  {
+    "name": "HP EliteBook 850 G3, Silver Black Metal (T9X37EA)",
+    "id": 136969610
+  },
+  {
+    "name": "HP EliteBook 850 G3, Silver Black Metal (T9X36EA)",
+    "id": 136969612
+  },
+  {
+    "name": "HP EliteBook 850 G3, Silver Black Metal (T9X56EA)",
+    "id": 136969614
+  },
+  {
+    "name": "HP EliteBook Folio 1040 G3, Metallic Grey (V1A81EA)",
+    "id": 136969623
+  },
+  {
+    "name": "HP EliteBook Folio 1040 G3, Metallic Grey (V1B07EA)",
+    "id": 136969625
+  },
+  {
+    "name": "HP EliteBook Folio 1040 G3, Metallic Grey (V1A85EA)",
+    "id": 136969629
+  },
+  {
+    "name": "Acer Extensa EX2511G-P1TE, Black (NX.EF9ER.008)",
+    "id": 136272787
+  },
+  {
+    "name": "Acer Extensa EX2511G-P6TR, Black (NX.EF7ER.011)",
+    "id": 136272788
+  },
+  {
+    "name": "HP EliteBook 850 G3, Silver Black Metal (T9X35EA)",
+    "id": 136969613
+  },
+  {
+    "name": "HP Elitebook Folio G1, Metallic Grey (V1C64EA)",
+    "id": 136969615
+  },
+  {
+    "name": "HP Elitebook Folio G1, Metallic Grey (V1C40EA)",
+    "id": 136969616
+  },
+  {
+    "name": "HP Elitebook Folio G1, Metallic Grey (V1C39EA)",
+    "id": 136969617
+  },
+  {
+    "name": "HP EliteBook Folio 1040 G3, Metallic Grey (V1A83EA)",
+    "id": 136969624
+  },
+  {
+    "name": "HP EliteBook Folio 1040 G3, Metallic Grey (V1A75EA)",
+    "id": 136969626
+  },
+  {
+    "name": "HP EliteBook Folio 1040 G3, Metallic Grey (V1B09EA)",
+    "id": 136969627
+  },
+  {
+    "name": "MSI GT72S 6QE-827RU Dominator Pro G, Black",
+    "id": 136937682
+  },
+  {
+    "name": "ASUS ZenBook UX305CA, Black (UX305CA-DQ124T)",
+    "id": 136937702
+  },
+  {
+    "name": "ASUS VivoBook X540LJ, Chocolate Black (X540LJ-XX011D)",
+    "id": 136937708
+  },
+  {
+    "name": "Apple MacBook 12\", Gold (MLHF2RU/A)",
+    "id": 136474873
+  },
+  {
+    "name": "Apple MacBook Air 13\" (MMGF2RU/A)",
+    "id": 136474875
+  },
+  {
+    "name": "Apple MacBook 12\", Gold (MLHE2RU/A)",
+    "id": 136474872
+  },
+  {
+    "name": "Apple MacBook 12\", Rose Gold (MMGM2RU/A)",
+    "id": 136474874
+  },
+  {
+    "name": "Apple MacBook Air 13\" (MMGG2RU/A)",
+    "id": 136474876
+  },
+  {
+    "name": "ASUS K501UQ-DM068D, Grey Metal (90NB0BP2-M01360)",
+    "id": 140023861
+  },
+  {
+    "name": "ASUS K501UW-DM067T, Grey Metal (90NB0BQ2-M00870)",
+    "id": 140023862
+  },
+  {
+    "name": "Acer Swift 7 SF713-51-M8KU, Black Gold",
+    "id": 139793844
+  },
+  {
+    "name": "Acer Swift 5 SF514-51-73Q8, Black",
+    "id": 139793853
+  },
+  {
+    "name": "Acer Swift 5 SF514-51-53XN, Black",
+    "id": 139793855
+  },
+  {
+    "name": "Acer Swift 5 SF514-51-73HS, Black",
+    "id": 139793856
+  },
+  {
+    "name": "Dell Inspiron 5567, White (5567-0606)",
+    "id": 140166463
+  },
+  {
+    "name": "Dell Inspiron 5767, Black (5767-2716)",
+    "id": 140166464
+  },
+  {
+    "name": "Dell Vostro 5468, Grey (5468-8012)",
+    "id": 140166465
+  },
+  {
+    "name": "ASUS VivoBook Pro N552VW (N552VW-FY253T) Уцененный товар (№1)",
+    "id": 140190728
+  },
+  {
+    "name": "ASUS R540YA, Chocolate Black (90NB0CN1-M01390)",
+    "id": 140276918
+  },
+  {
+    "name": "ASUS VivoBook Max X541SA, Chocolate Black (X541SA-XX119T)",
+    "id": 140276920
+  },
+  {
+    "name": "Acer Aspire F5-771G-74D4, Black",
+    "id": 139934550
+  },
+  {
+    "name": "ASUS ROG GL752VW (GL752VW-T4236D)",
+    "id": 136172442
+  },
+  {
+    "name": "ASUS ROG GL752VW, Grey (GL752VW-T4238T)",
+    "id": 136172443
+  },
+  {
+    "name": "ASUS ROG GL552VW (GL552VW-FI476T)",
+    "id": 136172447
+  },
+  {
+    "name": "ASUS ROG GL552VW (GL552VW-CN479T)",
+    "id": 136172449
+  },
+  {
+    "name": "ASUS ROG G501VW (G501VW-FY131T)",
+    "id": 136172465
+  },
+  {
+    "name": "ASUS ROG GL752VW (GL752VW-T4234T)",
+    "id": 136172439
+  },
+  {
+    "name": "ASUS ROG GL552VW (GL552VW-CN481T)",
+    "id": 136172451
+  },
+  {
+    "name": "ASUS ROG GL752VW (GL752VW-T4236T)",
+    "id": 136172444
+  },
+  {
+    "name": "Acer Extensa EX2511G-P7R2, Black",
+    "id": 138453129
+  },
+  {
+    "name": "Acer Extensa EX2519-P0BD, Black",
+    "id": 138453131
+  },
+  {
+    "name": "Acer Extensa EX2519-P79W, Black",
+    "id": 138453132
+  },
+  {
+    "name": "Apple MacBook Pro 13\" Retina, Silver (MLUQ2RU/A)",
+    "id": 139387082
+  },
+  {
+    "name": "Apple MacBook Pro 13\", Silver (MLVP2RU/A)",
+    "id": 139387083
+  },
+  {
+    "name": "Apple MacBook Pro 13\", Silver (MNQG2RU/A)",
+    "id": 139387085
+  },
+  {
+    "name": "Apple MacBook Pro 13\", Space Grey (MNQF2RU/A)",
+    "id": 139387086
+  },
+  {
+    "name": "Apple MacBook Pro 15\", Silver (MLW72RU/A)",
+    "id": 139387087
+  },
+  {
+    "name": "Apple MacBook Pro 15\", Space Grey (MLH32RU/A)",
+    "id": 139387088
+  },
+  {
+    "name": "Apple MacBook Pro 15\", Silver (MLW82RU/A)",
+    "id": 139387089
+  },
+  {
+    "name": "Apple MacBook Pro 15\", Space Grey (MLH42RU/A)",
+    "id": 139387090
+  },
+  {
+    "name": "Dell Inspiron 5567-3195, Black",
+    "id": 139604203
+  },
+  {
+    "name": "Dell Inspiron 5567-3201, White",
+    "id": 139604204
+  },
+  {
+    "name": "Dell Inspiron 5567-3539, Blue",
+    "id": 139604205
+  },
+  {
+    "name": "Dell Inspiron 5567-3546, Blue",
+    "id": 139604206
+  },
+  {
+    "name": "ASUS VivoBook Pro N552VX (N552VX-FW168T)",
+    "id": 139604211
+  },
+  {
+    "name": "ASUS ZenBook UX310UQ (UX310UQ-FC203T)",
+    "id": 139604212
+  },
+  {
+    "name": "ASUS R540SA (R540SA-XX036T)",
+    "id": 139205692
+  },
+  {
+    "name": "ASUS X751SA (X751SA-TY165T)",
+    "id": 139205693
+  },
+  {
+    "name": "Dell Vostro 5468-3317, Blue",
+    "id": 141018310
+  },
+  {
+    "name": "Dell XPS 15 (9560-8968), Silver",
+    "id": 141018311
+  },
+  {
+    "name": "Dell Inspiron 3552 (3072), Black",
+    "id": 141018312
+  },
+  {
+    "name": "Dell Inspiron 5567 (8017), Blue",
+    "id": 140576188
+  },
+  {
+    "name": "HP 15-ba609ur, Silver (1LY07EA)",
+    "id": 141733791
+  },
+  {
+    "name": "ASUS X756UV (X756UV-TY043T) Уцененный товар (№1)",
+    "id": 141241354
+  },
+  {
+    "name": "MSI GS70 2QC-027RU Stealth, Black Уцененный товар (№2)",
+    "id": 141240106
+  },
+  {
+    "name": "Apple MacBook Air 13\" (MQD32RU/A)\n",
+    "id": 141277338
+  },
+  {
+    "name": "Apple MacBook 12\", Gold (MNYK2RU/A)",
+    "id": 141277342
+  },
+  {
+    "name": "Apple MacBook Pro 13\", Space Grey (MPXV2RU/A)",
+    "id": 141277339
+  },
+  {
+    "name": "Apple MacBook Pro 13\", Space Grey (MPXW2RU/A)",
+    "id": 141277340
+  },
+  {
+    "name": "HP 15-bw082ur, Silver (1VJ03EA)",
+    "id": 141536707
+  },
+  {
+    "name": "HP 15-bw021ur, Black (1ZK10EA)",
+    "id": 141536708
+  },
+  {
+    "name": "HP 15-bw020ur, Black (1ZK09EA)",
+    "id": 141536709
+  },
+  {
+    "name": "HP 15-bw019ur, Black (1ZK08EA)",
+    "id": 141536710
+  },
+  {
+    "name": "HP 15-bw018ur, Black (1ZK07EA)",
+    "id": 141536711
+  },
+  {
+    "name": "HP 15-bw067ur, Black (2BT83EA)",
+    "id": 141536712
+  },
+  {
+    "name": "HP 15-bw017ur, Black (1ZK06EA)",
+    "id": 141536713
+  },
+  {
+    "name": "HP 15-bw016ur, Black (1ZK05EA)",
+    "id": 141536714
+  },
+  {
+    "name": "HP 15-bw060ur, Silver (2BT77EA)",
+    "id": 141536715
+  },
+  {
+    "name": "HP 15-bw062ur, White (2BT79EA)",
+    "id": 141536716
+  },
+  {
+    "name": "HP 15-bw059ur, Black (2BT76EA)",
+    "id": 141536717
+  },
+  {
+    "name": "HP 15-bw015ur, Black (1ZK04EA)",
+    "id": 141536718
+  },
+  {
+    "name": "HP 15-bw014ur, Black (1ZK03EA)",
+    "id": 141536719
+  },
+  {
+    "name": "HP 15-bw536ur, Blue (2GF36EA)",
+    "id": 141536720
+  },
+  {
+    "name": "HP 15-bw535ur, Black (2GF35EA)",
+    "id": 141536721
+  },
+  {
+    "name": "HP 15-bw534ur, Blue (2FQ71EA)",
+    "id": 141536722
+  },
+  {
+    "name": "HP 15-bw090ur, Black (2CJ98EA)",
+    "id": 141536723
+  },
+  {
+    "name": "HP 15-bw533ur, Blue (2FQ70EA)",
+    "id": 141536724
+  },
+  {
+    "name": "HP 15-bw532ur, Black (2FQ69EA)",
+    "id": 141536725
+  },
+  {
+    "name": "HP 15-bw531ur, Blue (2FQ68EA)",
+    "id": 141536726
+  },
+  {
+    "name": "HP 15-bw530ur, Black (2FQ67EA)",
+    "id": 141536727
+  },
+  {
+    "name": "HP 15-bw509ur, Blue (2FN01EA)",
+    "id": 141536728
+  },
+  {
+    "name": "HP 15-bw508ur, Grey (2FN00EA)",
+    "id": 141536729
+  },
+  {
+    "name": "HP 15-bw507ur, Gold (2FM99EA)",
+    "id": 141536730
+  },
+  {
+    "name": "HP 15-bw072ur, Silver (2CN99EA)",
+    "id": 141536731
+  },
+  {
+    "name": "HP 15-bw071ur, White (2CN98EA)",
+    "id": 141536732
+  },
+  {
+    "name": "HP 15-bw033ur, Black (2BT54EA)",
+    "id": 141536733
+  },
+  {
+    "name": "HP 15-bw031ur, Gold (2BT52EA)",
+    "id": 141536734
+  },
+  {
+    "name": "HP 15-bw029ur, Silver (2BT50EA)",
+    "id": 141536735
+  },
+  {
+    "name": "HP 15-bw087ur, Black (1VJ08EA)",
+    "id": 141536736
+  },
+  {
+    "name": "HP 15-bs018ur, Silver (1ZJ84EA)",
+    "id": 141536737
+  },
+  {
+    "name": "Dell XPS 15, Silver Black (9550-7920) Уцененный товар (№1)",
+    "id": 141303897
+  },
+  {
+    "name": "Apple MacBook 12\", Space Grey (MNYF2RU/A)",
+    "id": 141542726
+  },
+  {
+    "name": "Apple MacBook Pro 15.4\", Space Grey (MPTR2RU/A)",
+    "id": 141542727
+  },
+  {
+    "name": "Apple MacBook Pro 15.4\", Silver (MPTU2RU/A)",
+    "id": 141542728
+  },
+  {
+    "name": "Apple MacBook Pro 15.4\", Silver (MPTV2RU/A)",
+    "id": 141542729
+  },
+  {
+    "name": "Apple MacBook Pro 13\", Space Grey (MPXQ2RU/A)",
+    "id": 141542730
+  },
+  {
+    "name": "Apple MacBook Pro 13\", Silver (MPXU2RU/A)",
+    "id": 141542731
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15ISK, Black  (80SM01M4RK)",
+    "id": 141664882
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15ISK, Black (80SM021BRK)",
+    "id": 141664883
+  },
+  {
+    "name": "Lenovo IdeaPad 110-17IKB, Black (80VK005URK)",
+    "id": 141664884
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15ISK, Black (80SM020SRK)",
+    "id": 141664885
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15IAP, Black (80TT00B7RK)",
+    "id": 141664886
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15IAP, Black (80TT0078RK)",
+    "id": 141664887
+  },
+  {
+    "name": "Lenovo IdeaPad 110-15IBR (80T7009KRK)",
+    "id": 141664888
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15IKB, Black (80TV02DARK)",
+    "id": 141664889
+  },
+  {
+    "name": "Lenovo IdeaPad 110-14IBR (80T6009FRK)",
+    "id": 141664890
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15IAP, Silver (80TT005YRK)",
+    "id": 141664891
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15ISK, Black (80SM01RQRK)",
+    "id": 141664892
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15IKB, Silver (80TV00B2RK)",
+    "id": 141664893
+  },
+  {
+    "name": "Lenovo IdeaPad 110-15IBR (80T7009ERK)",
+    "id": 141664894
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15ISK, Silver (80SM01RNRK)",
+    "id": 141664895
+  },
+  {
+    "name": "Lenovo IdeaPad 110-15ACL (80TJ0030RK)",
+    "id": 141664896
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15ISK, Black (80SM0222RK)",
+    "id": 141664897
+  },
+  {
+    "name": "Lenovo IdeaPad 110-14IBR (80T6009ERK)",
+    "id": 141664898
+  },
+  {
+    "name": "Apple MacBook Pro 13\", Space Grey (MPXT2RU/A)",
+    "id": 141277738
+  },
+  {
+    "name": "Apple MacBook Air 13\" (MQD42RU/A)",
+    "id": 141277741
+  },
+  {
+    "name": "ASUS ROG G752VS (G752VS-GB136T) Уцененный товар (№2)",
+    "id": 141146297
+  },
+  {
+    "name": "HP Pavilion 15-au124ur, Red (Z6K50EA)",
+    "id": 141733788
+  },
+  {
+    "name": "HP 15-ba610ur, Green (1LY08EA)",
+    "id": 141733790
+  },
+  {
+    "name": "HP 15-ba607ur, Red (1LY05EA)",
+    "id": 141733793
+  },
+  {
+    "name": "HP 15-ba611ur, Blue (1LY09EA)",
+    "id": 141733789
+  },
+  {
+    "name": "HP 15-ba608ur, White (1LY06EA)",
+    "id": 141733792
+  },
+  {
+    "name": "Acer Swift 1 SF114-31-C744, Blue (NX.GMJER.002)",
+    "id": 141733794
+  },
+  {
+    "name": "Acer Aspire F5-771G-596H, Black",
+    "id": 139934549
+  },
+  {
+    "name": "Acer Aspire F5-771G-79TJ, Black",
+    "id": 139934551
+  },
+  {
+    "name": "Dell Inspiron 5759, Silver (0261)",
+    "id": 139833572
+  },
+  {
+    "name": "Dell Inspiron 5758, Silver (8986)",
+    "id": 139833574
+  },
+  {
+    "name": "Dell Vostro 5568-9951, Grey Уцененный товар (№1)",
+    "id": 140349595
+  },
+  {
+    "name": "Dell Inspiron 3565, Black (3565-7720)",
+    "id": 140069984
+  },
+  {
+    "name": "Dell Inspiron 3567, Black (3567-7671)",
+    "id": 140069986
+  },
+  {
+    "name": "Dell Inspiron 5567, Black (5567-0590)",
+    "id": 140069989
+  },
+  {
+    "name": "Dell Vostro 5468-8029, Grey",
+    "id": 140069993
+  },
+  {
+    "name": "Dell XPS 13 (9360-8944), Silver",
+    "id": 140069996
+  },
+  {
+    "name": "Dell Inspiron 7567, Black (7567-9309)",
+    "id": 140069991
+  },
+  {
+    "name": "Dell Vostro 5568, Grey (5568-8036)",
+    "id": 140069995
+  },
+  {
+    "name": "Dell XPS 15 (9560-8951), Silver",
+    "id": 140069997
+  },
+  {
+    "name": "Dell Inspiron 3567, Black (3567-7879)",
+    "id": 140069987
+  },
+  {
+    "name": "Dell Inspiron 7567, Black (7567-9316)",
+    "id": 140069992
+  },
+  {
+    "name": "Dell Inspiron 3565, Black (3565-7713)",
+    "id": 140069983
+  },
+  {
+    "name": "Dell Inspiron 3565, Black (3565-7916)",
+    "id": 140069985
+  },
+  {
+    "name": "ASUS K555LD (K555LD-XO328H)",
+    "id": 141195994
+  },
+  {
+    "name": "ASUS X555LN (X555LN-XO467H)",
+    "id": 141195995
+  },
+  {
+    "name": "Dell Inspiron 5565-8024, Red",
+    "id": 140865290
+  },
+  {
+    "name": "Dell Inspiron 5565-8031, Blue",
+    "id": 140865291
+  },
+  {
+    "name": "ASUS ROG G752VS (G752VS-GB136T) Уцененный товар (№1)",
+    "id": 141014515
+  },
+  {
+    "name": "Dell XPS 13 (9365-4436), Silver",
+    "id": 141186747
+  },
+  {
+    "name": "Dell Inspiron 5567 (7935), White",
+    "id": 140576187
+  },
+  {
+    "name": "Dell Inspiron 5567 (7928), Black",
+    "id": 140576186
+  },
+  {
+    "name": "HP EliteBook 840 G3, Silver Black Metal (T9X21EA) Уцененный товар (№1)",
+    "id": 138156443
+  },
+  {
+    "name": "Apple MacBook 12\", Space Gray (MLH82RU/A)",
+    "id": 138427967
+  },
+  {
+    "name": "Dell Inspiron 5567-2662, White",
+    "id": 138295361
+  },
+  {
+    "name": "Dell Inspiron 5567-0613, Black",
+    "id": 138295358
+  },
+  {
+    "name": "Dell Inspiron 5567-0620, White",
+    "id": 138295359
+  },
+  {
+    "name": "Dell Inspiron 5567-2655, Black",
+    "id": 138295360
+  },
+  {
+    "name": "ASUS K501UX (K501UX-DM282T), Grey",
+    "id": 138295362
+  },
+  {
+    "name": "Dell Inspiron 5565-0583, White",
+    "id": 139036312
+  },
+  {
+    "name": "Dell Inspiron 5767-2679, Black",
+    "id": 139036314
+  },
+  {
+    "name": "Dell Vostro 5468-9937, Grey",
+    "id": 139036318
+  },
+  {
+    "name": "Dell Vostro 5568-9951, Grey",
+    "id": 139036320
+  },
+  {
+    "name": "Dell Vostro 5568-9982, Gold",
+    "id": 139036323
+  },
+  {
+    "name": "Dell Inspiron 5565-0576, Black",
+    "id": 139036311
+  },
+  {
+    "name": "Dell Inspiron 5567-2631, Black",
+    "id": 139036313
+  },
+  {
+    "name": "Dell Vostro 5468-9944, Grey",
+    "id": 139036319
+  },
+  {
+    "name": "Dell XPS 13 9360-9838, Silver",
+    "id": 139036324
+  },
+  {
+    "name": "ASUS Vivobook Max X541SA, Chocolate Black (X541SA-XX327T)",
+    "id": 138897034
+  },
+  {
+    "name": "ASUS VivoBook X540LA, Chocolate Black (X540LA-XX360T)",
+    "id": 139540403
+  },
+  {
+    "name": "ASUS X540SA-XX012T, Chocolate Black (90NB0B31-M00740)",
+    "id": 139540405
+  },
+  {
+    "name": "ASUS VivoBook Max X541SA, Chocolate Black (X541SA-XX119D)",
+    "id": 139540407
+  },
+  {
+    "name": "ASUS VivoBook Max X541SA, Chocolate Black (X541SA-XX327D)",
+    "id": 139540408
+  },
+  {
+    "name": "Lenovo IdeaPad G50-45, Black (80E301TWRK)",
+    "id": 139540412
+  },
+  {
+    "name": "Lenovo IdeaPad G70-35, Black (80Q5005JRK)",
+    "id": 139540413
+  },
+  {
+    "name": "Lenovo IdeaPad 110-15ACL, Black (80TJ0055RK)",
+    "id": 139540415
+  },
+  {
+    "name": "Lenovo IdeaPad 110-15IBR, Black (80T70040RK)",
+    "id": 139540416
+  },
+  {
+    "name": "ASUS A553SA-XX307T, Black (90NB0AC1-M06210)",
+    "id": 139540402
+  },
+  {
+    "name": "ASUS VivoBook X540SA, Chocolate Black (X540SA-XX032T)",
+    "id": 139540406
+  },
+  {
+    "name": "ASUS X751SA, Black (90NB07M1-M03140)",
+    "id": 139540410
+  },
+  {
+    "name": "ASUS ZenBook UX310UQ (UX310UQ-FC217T)",
+    "id": 139437897
+  },
+  {
+    "name": "ASUS ZenBook UX310UA (UX310UA-FC051T)",
+    "id": 139437898
+  },
+  {
+    "name": "ASUS X751SV (X751SV-TY008T)",
+    "id": 139437899
+  },
+  {
+    "name": "Lenovo G5045, Black (80E3023YRK)",
+    "id": 137464638
+  },
+  {
+    "name": "Apple MacBook 12\", Rose Gold (MMGL2RU/A)",
+    "id": 137220564
+  },
+  {
+    "name": "Apple MacBook 12\", Silver (MLHA2RU/A)",
+    "id": 137220565
+  },
+  {
+    "name": "Apple MacBook 12\", Space Gray (MLH72RU/A)",
+    "id": 137220566
+  },
+  {
+    "name": "Apple MacBook 12\", Silver (MLHC2RU/A)",
+    "id": 137220567
+  },
+  {
+    "name": "Lenovo IdeaPad 100-15IBY, Black (80MJ00DWRK)",
+    "id": 137623862
+  },
+  {
+    "name": "Lenovo IdeaPad B71-80, Black Grey (80RJ00EYRK)",
+    "id": 137623857
+  },
+  {
+    "name": "Lenovo IdeaPad G50-45, Black (80E301Q9RK)",
+    "id": 137623858
+  },
+  {
+    "name": "Lenovo IdeaPad 100-15IBY, Black (80MJ009VRK)",
+    "id": 137623859
+  },
+  {
+    "name": "Lenovo IdeaPad 100-15IBY, Black (80MJ00DSRK)",
+    "id": 137623861
+  },
+  {
+    "name": "ASUS K501UX, Grey Metal (90NB0A62-M03360)",
+    "id": 137623863
+  },
+  {
+    "name": "ASUS VivoBook X540LA, Chocolate Black (90NB0B01-M12510)",
+    "id": 137623864
+  },
+  {
+    "name": "ASUS VivoBook X540LJ, Chocolate Black (90NB0B11-M03910)",
+    "id": 137623865
+  },
+  {
+    "name": "Lenovo IdeaPad 305-15IBD, Blue (80NJ00R4RK)",
+    "id": 137623868
+  },
+  {
+    "name": "ASUS R540YA, Chocolate Black (90NB0CN1-M02300)",
+    "id": 140249592
+  },
+  {
+    "name": "ASUS ZenBook 3 UX390UA, Rose Gold (90NB0CZ2-M06910)",
+    "id": 140249602
+  },
+  {
+    "name": "ASUS K501UQ, Grey Metal (K501UQ-DM074T)",
+    "id": 140249604
+  },
+  {
+    "name": "ASUS VivoBook Max X541SC, Chocolate Black (X541SC-XXO34T)",
+    "id": 140249613
+  },
+  {
+    "name": "Lenovo IdeaPad 100S-11IBY, Blue White (80R2003LRK)",
+    "id": 140493513
+  },
+  {
+    "name": "Lenovo ThinkPad X260 (20F5S56T00)",
+    "id": 140493514
+  },
+  {
+    "name": "Lenovo Yoga 900S (80ML005FRK)",
+    "id": 140493516
+  },
+  {
+    "name": "Acer Aspire S5-371-33RL (NX.GCHER.003)",
+    "id": 140493519
+  },
+  {
+    "name": "Acer Aspire V3-372-70V9 (NX.G7AER.005)",
+    "id": 140493527
+  },
+  {
+    "name": "Acer Aspire E5-523-6973 (NX.GDNER.006)",
+    "id": 140493536
+  },
+  {
+    "name": "Acer Aspire E5-523-98M1 (NX.GDNER.005)",
+    "id": 140493537
+  },
+  {
+    "name": "Acer Aspire E5-573G-34JQ (NX.MVMER.098)",
+    "id": 140493540
+  },
+  {
+    "name": "Acer Extensa EX2519-C7DW (NX.EFAER.039)",
+    "id": 140493558
+  },
+  {
+    "name": "Acer Extensa EX2519-C8EG (NX.EFAER.030)",
+    "id": 140493559
+  },
+  {
+    "name": "Acer Extensa EX2519-C9WU (NX.EFAER.038)",
+    "id": 140493560
+  },
+  {
+    "name": "Acer Extensa EX2519-P7VE (NX.EFAER.032)",
+    "id": 140493561
+  },
+  {
+    "name": "Acer Extensa EX2520-51D5 (NX.EFBER.003)",
+    "id": 140493562
+  },
+  {
+    "name": "Acer Extensa EX2540-51WG, Black",
+    "id": 140430182
+  },
+  {
+    "name": "Acer Extensa EX2540-5325, Black (NX.EFGER.004)",
+    "id": 140430184
+  },
+  {
+    "name": "Acer Extensa EX2540-542P, Black",
+    "id": 140430186
+  },
+  {
+    "name": "Acer Extensa EX2530-C317, Black (NX.EFFER.009)",
+    "id": 140430187
+  },
+  {
+    "name": "Acer Extensa EX2519-P5PG, Black (NX.EFAER.026)",
+    "id": 140430190
+  },
+  {
+    "name": "Dell Inspiron 5565 (7688), Black",
+    "id": 140430197
+  },
+  {
+    "name": "Dell Inspiron 7567, Red (7567-9330)",
+    "id": 140430199
+  },
+  {
+    "name": "Dell XPS 15 (9560-8039), Silver",
+    "id": 140430200
+  },
+  {
+    "name": "ASUS R540SA (R540SA-XX052T)",
+    "id": 140430205
+  },
+  {
+    "name": "ASUS X550ZE, Dark Grey (X550ZE-XX216T)",
+    "id": 140430206
+  },
+  {
+    "name": "ASUS X540LJ-XX771T, Chocolate Black",
+    "id": 140430207
+  },
+  {
+    "name": "ASUS X540LJ-XX528T, Chocolate Black",
+    "id": 140430208
+  },
+  {
+    "name": "ASUS ROG GL752VW (GL752VW-T4234T) Уцененный товар (№1)",
+    "id": 140672181
+  },
+  {
+    "name": "ASUS ZenBook UX310UQ, Silver (UX310UQ-GL486T)",
+    "id": 140981878
+  },
+  {
+    "name": "Dell Inspiron 5555, Black (5555-9723)",
+    "id": 140981885
+  },
+  {
+    "name": "ASUS ROG GL752VL, Grey Metal (GL752VL-T4027T)",
+    "id": 140981884
+  },
+  {
+    "name": "ASUS K550VX, Black Red (K550VX-DM368T)",
+    "id": 140981232
+  },
+  {
+    "name": "ASUS K550VX, Black Red (K550VX-DM360T)",
+    "id": 140981233
+  },
+  {
+    "name": "Acer Swift 5 SF514-51-57TN, White",
+    "id": 140830428
+  },
+  {
+    "name": "Dell Inspiron 7567, Black (7567-8821)",
+    "id": 140830434
+  },
+  {
+    "name": "Acer Swift 5 SF514-51-799K, White",
+    "id": 140830431
+  },
+  {
+    "name": "Dell Inspiron 7567, Black (7567-8814)",
+    "id": 140830433
+  },
+  {
+    "name": "Dell Inspiron 7567, Red (7567-8920)",
+    "id": 140830435
+  },
+  {
+    "name": "Acer Extensa EX2520G-34UX (NX.EFCER.010)",
+    "id": 140493564
+  },
+  {
+    "name": "Acer Extensa EX2520G-35L2 (NX.EFDER.011)",
+    "id": 140493565
+  },
+  {
+    "name": "Acer Extensa EX2520G-39XP (NX.EFDER.009)",
+    "id": 140493566
+  },
+  {
+    "name": "Acer Extensa EX2520G-P0G5 (NX.EFDER.014)",
+    "id": 140493572
+  },
+  {
+    "name": "Acer Extensa EX2520G-P2JG (NX.EFDER.008)",
+    "id": 140493573
+  },
+  {
+    "name": "Acer Extensa EX2540-51WG (NX.EFGER.007)",
+    "id": 140493579
+  },
+  {
+    "name": "Acer Extensa EX2540-53CE (NX.EFGER.003)",
+    "id": 140493580
+  },
+  {
+    "name": "Lenovo IdeaPad 100-15IBY (80MJ00DQRK)",
+    "id": 140493581
+  },
+  {
+    "name": "Lenovo IdeaPad 110-15ACL, Black (80TJ00DDRK)",
+    "id": 140493582
+  },
+  {
+    "name": "Lenovo IdeaPad 110-15ACL, Black (80TJ0041RK)",
+    "id": 140493584
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15IAP (80TT001MRK)",
+    "id": 140493595
+  },
+  {
+    "name": "Lenovo IdeaPad V110-15IAP (80TG001PRK)",
+    "id": 140493611
+  },
+  {
+    "name": "Lenovo IdeaPad V310-15ISK, Black (80SY000DRK)",
+    "id": 140493619
+  },
+  {
+    "name": "Acer Extensa EX2520G-52D8 (NX.EFDER.001)",
+    "id": 140493568
+  },
+  {
+    "name": "Lenovo IdeaPad 110-15ACL, Black (80TJ0040RK)",
+    "id": 140493583
+  },
+  {
+    "name": "Lenovo IdeaPad 110-15ACL, Black (80TJ0034RK)",
+    "id": 140493588
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15ABR (80ST002WRK)",
+    "id": 140493593
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15ISK (80SM00VGRK)",
+    "id": 140493598
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15ISK (80SM00VMRK)",
+    "id": 140493599
+  },
+  {
+    "name": "Lenovo IdeaPad V110-15IAP (80TG00G2RK)",
+    "id": 140493610
+  },
+  {
+    "name": "Lenovo IdeaPad V110-15ISK (80TL00DBRK)",
+    "id": 140493614
+  },
+  {
+    "name": "Lenovo IdeaPad V110-15ISK (80TL002XRK)",
+    "id": 140493616
+  },
+  {
+    "name": "MSI GE72 6QF-229RU Apache Pro",
+    "id": 140493638
+  },
+  {
+    "name": "MSI GE72 6QF-231RU Apache Pro",
+    "id": 140493640
+  },
+  {
+    "name": "ASUS N551VW, Grey (N551VW-FW325T)",
+    "id": 140249596
+  },
+  {
+    "name": "ASUS K501UQ, Grey Metal (K501UQ-DM068T)",
+    "id": 140249603
+  },
+  {
+    "name": "ASUS EeeBook E402SA (WX032T)",
+    "id": 140680049
+  },
+  {
+    "name": "ASUS Zenbook 3 UX390UA, Rose Gold (GS076T)",
+    "id": 140680052
+  },
+  {
+    "name": "ASUS Zenbook 3 UX390UA, Royal Blue (GS073T)",
+    "id": 140680051
+  },
+  {
+    "name": "Dell XPS 15 9550-1370, Silver Уцененный товар (№1)",
+    "id": 140240750
+  },
+  {
+    "name": "ASUS A541UV, Chocolate Black (A541UV-XO268T)",
+    "id": 140249595
+  },
+  {
+    "name": "ASUS ZenBook UX303UA, Smoky Brown (90NB08V1-M06620)",
+    "id": 140249607
+  },
+  {
+    "name": "ASUS VivoBook X540LJ, Chocolate Black (X540LJ-XX755T)",
+    "id": 140249610
+  },
+  {
+    "name": "ASUS ZenBook 3 UX390UA, Rose Gold (90NB0CZ2-M06920)",
+    "id": 140249600
+  },
+  {
+    "name": "ASUS ZenBook 3 UX390UA, Royal Blue (90NB0CZ1-M04600)",
+    "id": 140249601
+  },
+  {
+    "name": "ASUS VivoBook X540LA, Chocolate Black (X540LA-XX002T)",
+    "id": 140249608
+  },
+  {
+    "name": "ASUS X756UQ, Dark Brown (90NB0C31-M02550)",
+    "id": 140249620
+  },
+  {
+    "name": "Packard Bell ENLG81BA-P5GN, Black (NX.C44ER.006)",
+    "id": 140261003
+  },
+  {
+    "name": "Packard Bell ENTE70BH-38WW (NX.C4BER.003)",
+    "id": 140261004
+  },
+  {
+    "name": "Packard Bell ENTG81BA-C9WV, Black (NX.C3YER.021)",
+    "id": 140261006
+  },
+  {
+    "name": "Packard Bell ENTG81BA-P1MV, Black (NX.C3YER.022)",
+    "id": 140261007
+  },
+  {
+    "name": "Lenovo IdeaPad 510S-14ISK, White (80TK0068RK)",
+    "id": 140261043
+  },
+  {
+    "name": "Dell Inspiron 3567, Black (3567-7855)",
+    "id": 140260999
+  },
+  {
+    "name": "Lenovo IdeaPad 110-17ACL, Black (80UM005BRK)",
+    "id": 140261001
+  },
+  {
+    "name": "Packard Bell ENTG81BA-C2KW, Black (NX.C3YER.020)",
+    "id": 140261005
+  },
+  {
+    "name": "Packard Bell ENTG81BA-P35J, Black (NX.C3YER.019)",
+    "id": 140261008
+  },
+  {
+    "name": "Dell Inspiron 3168, White (3168-8773)",
+    "id": 140261025
+  },
+  {
+    "name": "Lenovo Yoga 900S-12ISK, Silver (80ML005ERK)",
+    "id": 140261028
+  },
+  {
+    "name": "Lenovo IdeaPad 710S-13ISK Plus, Gold (80VU0032RK)",
+    "id": 140261032
+  },
+  {
+    "name": "Dell Inspiron 3567, Black (3567-7930)",
+    "id": 140261035
+  },
+  {
+    "name": "Lenovo IdeaPad 110-17IKB, Black (80VK000BRK)",
+    "id": 140261036
+  },
+  {
+    "name": "Lenovo IdeaPad 300-17ISK, Black (80QH00F7RK)",
+    "id": 140261039
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15IKB, White (80TV00ASRK)",
+    "id": 140261041
+  },
+  {
+    "name": "Lenovo IdeaPad 510S-13IKB, White (80V00061RK)",
+    "id": 140261042
+  },
+  {
+    "name": "Lenovo IdeaPad 700-17ISK, Black (80RV006BRK)",
+    "id": 140261045
+  },
+  {
+    "name": "ASUS N552VW, Silver (N552VW-FY251T)",
+    "id": 140534118
+  },
+  {
+    "name": "ASUS N552VX, Silver (N552VX-FW356T)",
+    "id": 140534119
+  },
+  {
+    "name": "ASUS N552VX Special Edition, Silver (N552VX-FW354T)",
+    "id": 140534120
+  },
+  {
+    "name": "ASUS ROG FX502VM, Black (FX502VM-DM105T)",
+    "id": 140534121
+  },
+  {
+    "name": "ASUS ROG GL502VM, Black (GL502VM-FY043T)",
+    "id": 140534123
+  },
+  {
+    "name": "ASUS ROG GL752VW, Grey Metal (GL752VW-T4483T)",
+    "id": 140534127
+  },
+  {
+    "name": "ASUS ROG GL752VW, Grey Metal (GL752VW-T4505T)",
+    "id": 140534128
+  },
+  {
+    "name": "ASUS VivoBook X540LA, Chocolate Black (X540LA--XX360D)",
+    "id": 140534131
+  },
+  {
+    "name": "ASUS X751LB, Black (X751LB-TY139T)",
+    "id": 140534134
+  },
+  {
+    "name": "ASUS X756UV (X756UV-TY077T)",
+    "id": 140534136
+  },
+  {
+    "name": "ASUS X555YI (XO180T), Black",
+    "id": 140680053
+  },
+  {
+    "name": "Dell Inspiron 5567-7911, Blue",
+    "id": 140537898
+  },
+  {
+    "name": "Dell Inspiron 5567-7959, Blue",
+    "id": 140537900
+  },
+  {
+    "name": "Dell Inspiron 5567-7881, Black",
+    "id": 140537902
+  },
+  {
+    "name": "Dell Inspiron 5567-7904, Red",
+    "id": 140537897
+  },
+  {
+    "name": "Dell Inspiron 5567-7942, Red",
+    "id": 140537899
+  },
+  {
+    "name": "Dell Inspiron 5567-7898, White",
+    "id": 140537903
+  },
+  {
+    "name": "4good CL100, Blue",
+    "id": 140619217
+  },
+  {
+    "name": "4good CL110, Black",
+    "id": 140619218
+  },
+  {
+    "name": "4good People GN601",
+    "id": 140619215
+  },
+  {
+    "name": "HP ProBook 440 G3, Metal Gray (X0N42EA)",
+    "id": 140921429
+  },
+  {
+    "name": "ASUS K501UX-DM781T, Grey (90NB0A62-M04550)",
+    "id": 140959349
+  },
+  {
+    "name": "Dell Inspiron 3567, Black (3567-7862)",
+    "id": 140959337
+  },
+  {
+    "name": "Dell Inspiron 3567, Black (3567-8609)",
+    "id": 140959338
+  },
+  {
+    "name": "Dell Inspiron 7567-9347, Red",
+    "id": 140959339
+  },
+  {
+    "name": "Dell Vostro 5568-0605, Grey",
+    "id": 140959340
+  },
+  {
+    "name": "Dell Vostro 5568-9040, Grey",
+    "id": 140959341
+  },
+  {
+    "name": "Acer Swift 7 SF713-51-M4HA, Black Gold",
+    "id": 140959345
+  },
+  {
+    "name": "Acer Swift 7 SF713-51-M6WD, Black Gold",
+    "id": 140959346
+  },
+  {
+    "name": "Dell Inspiron 5767-7858, Black",
+    "id": 140959347
+  },
+  {
+    "name": "Acer Extensa EX2519-C298, Black",
+    "id": 141519944
+  },
+  {
+    "name": "Acer TravelMate TMP238-M-31TQ, Black",
+    "id": 141519946
+  },
+  {
+    "name": "Dell Vostro 3568-9361, Black",
+    "id": 141519949
+  },
+  {
+    "name": "Acer Extensa EX2540-55BU, Black",
+    "id": 141519953
+  },
+  {
+    "name": "Acer TravelMate TMP259-MG-39NS, Black",
+    "id": 141519956
+  },
+  {
+    "name": "Lenovo IdeaPad V110-17ISK, Black (80VM000RRK)",
+    "id": 141520780
+  },
+  {
+    "name": "Acer TravelMate TMP259-MG-36VC, Black",
+    "id": 141519947
+  },
+  {
+    "name": "Acer Extensa EX2540-30R0, Black",
+    "id": 141519951
+  },
+  {
+    "name": "Acer Aspire E5-772G-32CD, Grey (NX.MV9ER.004) Уцененный товар (№1)",
+    "id": 141575665
+  },
+  {
+    "name": "Dell Inspiron 5567-7898, White Уцененный товар (№1)",
+    "id": 141575641
+  },
+  {
+    "name": "Dell XPS 15 9550-2341, Silver Уцененный товар (№1)",
+    "id": 141574802
+  },
+  {
+    "name": "ASUS X540LA, White (X540LA-DM904D)",
+    "id": 141460067
+  },
+  {
+    "name": "Dell Inspiron 5567-1981, Black",
+    "id": 141460083
+  },
+  {
+    "name": "Dell Inspiron 5567-1998, White",
+    "id": 141460084
+  },
+  {
+    "name": "Dell Inspiron 5567-2025, Black",
+    "id": 141460085
+  },
+  {
+    "name": "Dell Inspiron 5567-2032, White",
+    "id": 141460086
+  },
+  {
+    "name": "Dell Inspiron 7567-2001, Black",
+    "id": 141460087
+  },
+  {
+    "name": "Dell Inspiron 7567-2018, Red",
+    "id": 141460088
+  },
+  {
+    "name": "Dell Vostro 5468-9845, Grey",
+    "id": 141460089
+  },
+  {
+    "name": "Dell Inspiron 5767-7475, Black",
+    "id": 141714497
+  },
+  {
+    "name": "Dell Inspiron 7567-2049, Black",
+    "id": 141714498
+  },
+  {
+    "name": "Dell Inspiron 7567-2056, Red",
+    "id": 141714499
+  },
+  {
+    "name": "Dell Vostro 5468-2969, Blue",
+    "id": 141714500
+  },
+  {
+    "name": "Apple MacBook 12\", Silver (MNYH2RU/A)",
+    "id": 141418983
+  },
+  {
+    "name": "Apple MacBook Pro 13\", Silver (MPXY2RU/A)",
+    "id": 141419749
+  },
+  {
+    "name": "ASUS X553SA, Black (90NB0AC1-M01470)",
+    "id": 137397922
+  },
+  {
+    "name": "ASUS VivoBook X540SA, Chocolate Black (X540SA-XX012D)",
+    "id": 137409547
+  },
+  {
+    "name": "ASUS VivoBook X540SA, Chocolate Black (X540SA-XX032D)",
+    "id": 137409548
+  },
+  {
+    "name": "ASUS X553SA, Black (X553SA-XX137T)",
+    "id": 137409549
+  },
+  {
+    "name": "Acer Extensa EX2511G-31JN, Black",
+    "id": 137409558
+  },
+  {
+    "name": "Acer Aspire V5-591G-50RF, Black Iron",
+    "id": 137409560
+  },
+  {
+    "name": "Dell Inspiron 3558 (5285), Black",
+    "id": 137573742
+  },
+  {
+    "name": "Prestigio SmartBook 116A, Black",
+    "id": 137571139
+  },
+  {
+    "name": "Prestigio SmartBook 141A03, White",
+    "id": 137571142
+  },
+  {
+    "name": "Prestigio SmartBook 141A03, Black",
+    "id": 137571141
+  },
+  {
+    "name": "Dell Inspiron 5558, Black Glossy (8193)",
+    "id": 137890756
+  },
+  {
+    "name": "Dell Inspiron 3558, Black (5247)",
+    "id": 137890752
+  },
+  {
+    "name": "ASUS X751SA, Black (90NB07M1-M01810)",
+    "id": 137765811
+  },
+  {
+    "name": "ASUS X751SJ (X751SJ-TY017T)",
+    "id": 137903061
+  },
+  {
+    "name": "Lenovo IdeaPad 110-15IBR, Black (80T7003PRK)",
+    "id": 139805085
+  },
+  {
+    "name": "Lenovo IdeaPad 110-15IBR, Black (80T700C5RK)",
+    "id": 139805086
+  },
+  {
+    "name": "Lenovo IdeaPad 300-15IBR, Silver (80M300MQRK)",
+    "id": 139805088
+  },
+  {
+    "name": "Lenovo IdeaPad 110-15IBR, Black (80T7003LRK)",
+    "id": 139805083
+  },
+  {
+    "name": "Lenovo IdeaPad 110-15IBR, Black (80T700C0RK)",
+    "id": 139805084
+  },
+  {
+    "name": "Lenovo IdeaPad 110-15IBR, Black (80T700C1RK)",
+    "id": 139805087
+  },
+  {
+    "name": "Lenovo IdeaPad 110-15IBR, Black (80T70047RK)",
+    "id": 139805089
+  },
+  {
+    "name": "Lenovo IdeaPad 310-15ISK (80SM00QJRK)",
+    "id": 139805092
+  },
+  {
+    "name": "Prestigio SmartBook 116A, Blue",
+    "id": 139792424
+  },
+  {
+    "name": "Acer Extensa EX2520G-51P0 (NX.EFCER.004)",
+    "id": 139793565
+  },
+  {
+    "name": "Acer Extensa EX2520G-52HS (NX.EFCER.005)",
+    "id": 139793566
+  },
+  {
+    "name": "Apple MacBook Pro 15\", Space Grey (MPTT2RU/A)",
+    "id": 141453229
+  },
+  {
+    "name": "Apple MacBook 12\", Rose Gold (MNYM2RU/A)",
+    "id": 141418984
+  },
+  {
+    "name": "Apple MacBook Pro 13\", Silver (MPXX2RU/A)",
+    "id": 141419748
+  },
+  {
+    "name": "Dell XPS 15 (9560-8968), Silver Уцененный товар (№1)",
+    "id": 141820973
+  },
+  {
+    "name": "Dell Inspiron 5567-3553, Midnight Blue",
+    "id": 141581131
+  },
+  {
+    "name": "Apple MacBook 12.0\", Gold (MNYL2RU/A)",
+    "id": 141599882
+  },
+  {
+    "name": "Apple MacBook 12\", Silver (MNYJ2RU/A)",
+    "id": 141599883
+  },
+  {
+    "name": "Apple MacBook 12\", Space Grey (MNYG2RU/A)",
+    "id": 141599884
+  }
+]
