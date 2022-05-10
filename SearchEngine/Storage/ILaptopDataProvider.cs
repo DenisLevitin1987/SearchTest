@@ -7,8 +7,6 @@ namespace SearchEngine.Storage
     {
         IReadOnlyDictionary<int, Laptop> GetLaptops();
 
-        IReadOnlyDictionary<int, Laptop> GetEquals(string equal);
-
-        IReadOnlyDictionary<int, Laptop> GetNotEquals(string equal);
+        IReadOnlyCollection<int> GetIdsByEqualString(string equal);
     }
 }

@@ -25,7 +25,36 @@ namespace SearchEngine.Searcher
                 throw new Exception("filter is not simple, but trying to use as simple");
             }
 
-            return filter.Operator == Operator.None ? _dataStorage.GetEquals(filter.Equals) : _dataStorage.GetNotEquals(filter.Equals);
+            if (filter.Operator == Operator.None)
+            {
+                var ids = _dataStorage.GetIdsByEqualString(filter.Equals);
+                
+                var result = new Dictionary<int, Laptop>();
+                foreach (var laptop in laptops)
+                {
+                    if (ids.Contains(laptop.Key))
+                    {
+                        result.Add(laptop.Key, laptop.Value);
+                    }
+                }
+
+                return result;
+            }
+            else
+            {
+                var ids = _dataStorage.GetIdsByEqualString(filter.Equals);
+                
+                var result = new Dictionary<int, Laptop>();
+                foreach (var laptop in laptops)
+                {
+                    if (!ids.Contains(laptop.Key))
+                    {
+                        result.Add(laptop.Key, laptop.Value);
+                    }
+                }
+
+                return result;
+            }
         }
 
         private IReadOnlyDictionary<int, Laptop> Search(IReadOnlyDictionary<int, Laptop> laptops, Filter filter)

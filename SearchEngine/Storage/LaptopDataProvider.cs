@@ -53,46 +53,9 @@ namespace SearchEngine.Storage
             return Laptops;
         }
 
-        public IReadOnlyDictionary<int, Laptop> GetEquals(string equal)
+        public IReadOnlyCollection<int> GetIdsByEqualString(string equal)
         {
-            if (Cache.TryGetValue(equal, out var ids))
-            {
-                var res = new Dictionary<int, Laptop>();
-                foreach (var id in ids)
-                {
-                    if (Laptops.TryGetValue(id, out var laptop))
-                    {
-                        res.Add(id, laptop);
-                    }
-                }
-
-                return res;
-            }
-            else
-            {
-                return new Dictionary<int, Laptop>();
-            }
-        }
-
-        public IReadOnlyDictionary<int, Laptop> GetNotEquals(string equal)
-        {
-            var res = new Dictionary<int, Laptop>();
-            if (Cache.TryGetValue(equal, out var ids))
-            {
-                foreach (var laptop in Laptops)
-                {
-                    if (!ids.Contains(laptop.Key))
-                    {
-                        res.Add(laptop.Key, laptop.Value);
-                    }
-                }
-
-                return res;
-            }
-            else
-            {
-                return Laptops;
-            }
+            return Cache.TryGetValue(equal, out var ids) ? ids : new HashSet<int>();
         }
     }
 }
